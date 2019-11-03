@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>190808208刘丹</title>
+<style type="text/css">
+	body{
+		color:#FF66CC;
+		font-size:16px;
+	}
+	h1{
+		font-family:方正姚体,黑体,宋体;
+		font-size:20px;
+		color:purple;
+		font-weight:bold;
+		text-align: center;
+		}
+	h2{
+		font-family:黑体
+		font-size:16px;
+		font-weight:normal;
+		color:#099;
+		}
+	p{
+		line-height:2em;
+		font-size:2em;
+		}
+	.nav{
+		background-color:chartreuse;
+		margin-left:15%;
+		margin-right:15%;
+		text-align:center;}
+	.copyreigt{
+		text-align:center;
+		margin-bottom:10px;}
+	#container{
+		width:90%;
+		margin:5px auto;
+		min-height:1500px;
+		background-color:pink;
+		}
+	#tri{
+		width:0px;
+		height:0px;
+		margin:20px auto;
+		border:50px solid red;
+		border-bottom:none;
+		border-left-color:transparent;
+		border-right-color:transparent;
+		}
+</style>
+</head>
+
+<body>
+<h2><b>欢迎光临我的个人网站</b><H2>
+</body>
+</html>
